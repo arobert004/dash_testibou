@@ -1,6 +1,6 @@
 dash==2.16.1
-dash_bootstrap_components==1.3.1
-dash_iconify==0.1.2
-pandas==2.2.2
-plotly==5.21.0
+dash_bootstrap_components
+dash_iconify
+pandas
+plotly
 gunicorn
